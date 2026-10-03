@@ -108,7 +108,14 @@ body {
   .btn:hover {
     opacity: 0.9;
   }
+  
+.int_btn {
+  background-color: #58bd8b !important; 
+  color: #fff;
 }
+  .int_btn:hover {
+    opacity: 0.9;
+  }
 
 /* Selection Feedback */
 .option-btn.correct {
