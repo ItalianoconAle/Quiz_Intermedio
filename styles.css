@@ -108,14 +108,6 @@ body {
   .btn:hover {
     opacity: 0.9;
   }
-  
-.int_btn {
-  background-color: #58bd8b !important; 
-  color: #fff;
-}
-  .int_btn:hover {
-    opacity: 0.9;
-  }
 
 /* Selection Feedback */
 .option-btn.correct {
@@ -168,7 +160,7 @@ body {
   transition: opacity 0.2s ease;
   -webkit-tap-highlight-color: transparent;
 }
-
+  
 #result-container h2 {
   color: #404040;
   margin-top: 0;
